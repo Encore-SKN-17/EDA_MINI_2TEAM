@@ -10,7 +10,7 @@
 |-------|-------|-------|-------|-------|
 | <img src="images/cwj.png" width="120"/> | <img src="images/csh.png" width="120"/> | <img src="images/juj.png" width="120"/> | <img src="images/pmj.png" width="120"/> | <img src="images/mjs.png" width="120"/> |
 
----
+--------
 
 ## <프로젝트 개요>
 ### 📌프로젝트 소개
@@ -28,7 +28,7 @@
 
 이에 따라, 누구나 쉽게 농축산물 가격 변동의 메커니즘을 이해하고, 예측 및 대응에 필요한 인사이트를 얻을 수 있도록 데이터 기반의 심층적인 탐색적 분석 프로젝트의 필요성이 커지고 있습니다.
 
----
+-------
 
 ## 데이터 선택 및 전처리
 ### ✅ 데이터 출처
@@ -56,7 +56,8 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 <img src="images/data6.png"/>
 7. 이상치 제거된 데이터
 <img src="images/data8.png"/>
----
+
+-------
 
 ## 📊시각화 자료
 ### <월별 축종별 가격 변동>
@@ -68,7 +69,7 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 ### <축종별 수입산 가격변동률과 비교>
 <img src="images/mjs4.png" width="1990" height="590"/>
 - 소와 돼지의 가격 변동 추이가 유사한 흐름을 보이는 반면, 소와 닭은 서로 반비례하는 경향을 보임
-- 
+
 ### <축종별 수입산 가격과의 상관관계>
 <img src="images/mjs3.png" width="1990" height="590"/>
 - 수입산의 경우, 전체적인 가격 흐름과 유사한 경향을 보였으며, 특히 소고기는 수입산 가격과의 상관관계가 나타났습니다.
@@ -103,7 +104,8 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 ### <변수간 상관관계 분석>
 <img src="images/plt5.png"/>
 
----
+-------
+
 ## 인사이트 도출
 
 ### 1. 축종별로 가격 상관관계
@@ -126,7 +128,7 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 - 양배추의 가격은 기후적 요인과 관련이 거의 없다.
 - 깻잎과 시금치는 약하다.
 
----
+--------
 
 ## 🗨️한줄 회고록
 
