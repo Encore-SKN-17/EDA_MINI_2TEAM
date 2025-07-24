@@ -72,7 +72,7 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 ### <축종별 수입산 가격과의 상관관계>
 <img src="images/mjs3.png" width="1990" height="590"/>
 - 수입산의 경우, 전체적인 가격 흐름과 유사한 경향을 보였으며, 특히 소고기는 수입산 가격과의 상관관계가 나타났습니다.
-- 
+
 ### <가축 질병(돼지열병) 발생일자와 축산물 가격>
 <img width="1990" height="1490" alt="output" src="https://github.com/user-attachments/assets/7a45637c-4fb1-406a-b387-3e541defdbdf" />
 - ASF(아프리카돼지열병)가 발생하면 대체로 돼지고기의 가격이 하락하는 경향을 보임
