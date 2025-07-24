@@ -42,10 +42,20 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 6. [기상청 기상자료 개방포털][(https://data.kma.go.kr/cmmn/main.do)]
 
   ### ✅ 데이터 전처리 
-1. 엑셀 파일 -> csv 파일로 저장 -> pd.read_csv()로 데이터 프레임으로 저장
-2. API를 활용해 데이터 .....
-3. null 값 -> null 값 행을 삭제 OR 평균 값으로 대체
-4. 시각화에 필요하지 않는 데이터 -> .drop()으로 삭제
+1. 로드된 데이터
+<img src="images/data1.png" width="1990" height="590"/>
+2. 기후이상 데이터 날짜 컬럼 추가
+<img src="images/data2.png" width="1990" height="590"/>
+3. 전처리된 기후이상 데이터
+<img src="images/data3.png" width="1990" height="590"/>
+4. 지역, 날짜 기준 데이터 통합, null값 처리
+<img src="images/data4.png" width="1990" height="590"/>
+5. 병합된 데이터
+<img src="images/data5.png" width="1990" height="590"/>
+6. 이상치 제거
+<img src="images/data6.png" width="1990" height="590"/>
+7. 이상치 제거된 데이터
+<img src="images/data8.png" width="1990" height="590"/>
 ---
 
 ## 📊시각화 자료
@@ -113,4 +123,4 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 Python을 활용해 지역별 기상이슈 여부 등 주요 항목을 정제하며, 팀원이 요구한 형식에 맞추는 데 집중했다.
 여러 파일로 나뉜 복잡한 데이터를 통합하고 구조화하는 과정을 통해 데이터 간 연결성과 일관성 확보의 중요성을 깊이 체감할 수 있었다.
 
-세희 : 각 데이터파일을 분석하고 지역, 날짜, 품목 등등 여러 컬럼 값의 형태를 통일시키고 이상치 제거,  
+세희 : 각 데이터파일을 분석하고 지역, 날짜, 품목,날씨,이상기후 등 여러 컬럼 값의 형태를 통일시키고 이상치 제거, null값 처리등 전처리를 진행하여 의미있는 인사이트를 도출하기 위하여 여러 데이터를 병합하고 시각화 하는 작업을 진행하였다. 프로젝트 초기 데이터를 찾고 이를 병합하는데 큰 시간소요가 있었는데 팀원들과 소통으로 여러 방면으로 계속 시도했고 끝에 결국 의미있는 시각화 자료를 많이 찾게 되어 너무 기분 좋은 프로젝트가 되었다. 혼자가 아닌 팀원들과의 소통, 단합으로 이루어낸 결과여서 더 뿌듯했다.
