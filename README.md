@@ -20,15 +20,15 @@
 
 
 ## 📊시각화 자료
-##### 1번 시각화
+#### <1번 시각화>
 <img width="1189" height="590" alt="6년간 월별 가격 변동이 큰 상위 15개 품목" src="https://github.com/user-attachments/assets/22eb936c-35df-437b-8c48-93e3ec3c82cb" />
 <img width="1392" height="590" alt="상위 15개 품목의 월별 평균 소매가격" src="https://github.com/user-attachments/assets/9b182ef2-6708-4838-8dc6-36e0abe5b902" />
 
-##### 2번 시각화
+#### <2번 시각화>
 <img width="1990" height="1490" alt="output" src="https://github.com/user-attachments/assets/7a45637c-4fb1-406a-b387-3e541defdbdf" />
 <img width="1990" height="1490" alt="output2" src="https://github.com/user-attachments/assets/29187402-ecdd-46f9-acc8-8d0e25871250" />
 
-##### 5번 시각화
+#### <5번 시각화>
 <img width="1389" height="590" alt="월별 시금치 수출 중량 추이" src="https://github.com/user-attachments/assets/8188d02e-88c2-4957-be63-f2afcb892cd7" />
 <img width="1389" height="590" alt="시금치 소매가격(막대) vs 수출 중량(선)" src="https://github.com/user-attachments/assets/909bf3f2-d09e-4dae-b1ed-b9a77a0e03ad" />
 
