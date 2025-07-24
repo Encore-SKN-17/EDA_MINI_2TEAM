@@ -43,19 +43,19 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 
 ### ✅ 데이터 전처리 
 1. 로드된 데이터
-<img src="images/data1.png" width="1990" height="590"/>
+<img src="images/data1.png"/>
 2. 기후이상 데이터 날짜 컬럼 추가
-<img src="images/data2.png" width="1990" height="590"/>
+<img src="images/data2.png"/>
 3. 전처리된 기후이상 데이터
-<img src="images/data3.png" width="1990" height="590"/>
+<img src="images/data3.png"/>
 4. 지역, 날짜 기준 데이터 통합, null값 처리
-<img src="images/data4.png" width="1990" height="590"/>
+<img src="images/data4.png"/>
 5. 병합된 데이터
-<img src="images/data5.png" width="1990" height="590"/>
+<img src="images/data5.png"/>
 6. 이상치 제거
-<img src="images/data6.png" width="1990" height="590"/>
+<img src="images/data6.png"/>
 7. 이상치 제거된 데이터
-<img src="images/data8.png" width="1990" height="590"/>
+<img src="images/data8.png"/>
 ---
 
 ## 📊시각화 자료
@@ -84,7 +84,7 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 ### <월별 농산물 가격 변동>
 <img width="1392" height="590" alt="상위 15개 품목의 월별 평균 소매가격" src="https://github.com/user-attachments/assets/9b182ef2-6708-4838-8dc6-36e0abe5b902" />
 
-### <월별 가격 변동이 큰 농산물 막대 그래프>
+### <월별 가격 변동이 큰 농산물 그래프>
 <img src="images/plt1.png"/>
 
 ### <시금치 소매가격과 수출 중량 비>
@@ -103,7 +103,6 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 ### <변수간 상관관계 분석>
 <img src="images/plt5.png"/>
 
-### < 
 ---
 ## 인사이트 도출
 
