@@ -36,18 +36,16 @@
 https://data.mafra.go.kr/opendata/data/indexOpenDataDetail.do?data_id=20170913000000000801
 2. 농산물 연도별/월별/일자별 소비자 가격 - API Key 발급
 https://www.kamis.or.kr/customer/reference/openapi_list.do
+3. [농산물유통정보](https://www.kamis.or.kr/)
+4. [축산유통정보](https://www.ekapepia.com/)
+5. [축산유통통계누리](https://www.mtrace.go.kr/)
+6. [기상청 기상자료 개방포털][(https://data.kma.go.kr/cmmn/main.do)]
 
-### ✅ 데이터 전처리 
+  ### ✅ 데이터 전처리 
 1. 엑셀 파일 -> csv 파일로 저장 -> pd.read_csv()로 데이터 프레임으로 저장
 2. API를 활용해 데이터 .....
 3. null 값 -> null 값 행을 삭제 OR 평균 값으로 대체
 4. 시각화에 필요하지 않는 데이터 -> .drop()으로 삭제
-
-### ✅ 데이터 출처
-- [농산물유통정보](https://www.kamis.or.kr/)
-- [축산유통정보](https://www.ekapepia.com/)
-- [축산유통통계누리](https://www.mtrace.go.kr/)
-- [기상청](https://www.weather.go.kr/)
 ---
 
 ## 📊시각화 자료
@@ -114,3 +112,5 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 의중 : 이번 프로젝트에서 데이터 수집과 날씨 이슈별 데이터 전처리를 담당했다.
 Python을 활용해 지역별 기상이슈 여부 등 주요 항목을 정제하며, 팀원이 요구한 형식에 맞추는 데 집중했다.
 여러 파일로 나뉜 복잡한 데이터를 통합하고 구조화하는 과정을 통해 데이터 간 연결성과 일관성 확보의 중요성을 깊이 체감할 수 있었다.
+
+세희 : 각 데이터파일을 분석하고 지역, 날짜, 품목 등등 여러 컬럼 값의 형태를 통일시키고 이상치 제거,  
