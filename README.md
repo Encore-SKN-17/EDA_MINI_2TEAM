@@ -19,10 +19,14 @@
 이에 따라, 누구나 쉽게 농축산물 가격 변동의 메커니즘을 이해하고, 예측 및 대응에 필요한 인사이트를 얻을 수 있도록 데이터 기반의 심층적인 탐색적 분석 프로젝트의 필요성이 커지고 있습니다.
 
 ## 📊시각화 자료
+##### 1번 시각화
+<img width="1189" height="590" alt="6년간 월별 가격 변동이 큰 상위 15개 품목" src="https://github.com/user-attachments/assets/22eb936c-35df-437b-8c48-93e3ec3c82cb" />
+<img width="1392" height="590" alt="상위 15개 품목의 월별 평균 소매가격" src="https://github.com/user-attachments/assets/9b182ef2-6708-4838-8dc6-36e0abe5b902" />
+
+##### 5번 시각화
+<img width="1389" height="590" alt="시금치 소매가격(막대) vs 수출 중량(선)" src="https://github.com/user-attachments/assets/909bf3f2-d09e-4dae-b1ed-b9a77a0e03ad" />
+<img width="1389" height="590" alt="월별 시금치 수출 중량 추이" src="https://github.com/user-attachments/assets/8188d02e-88c2-4957-be63-f2afcb892cd7" />
 
 ## 🗨️한줄 회고록
 
-<img width="1389" height="590" alt="월별 시금치 수출 중량 추이" src="https://github.com/user-attachments/assets/8188d02e-88c2-4957-be63-f2afcb892cd7" />
-<img width="1389" height="590" alt="시금치 소매가격(막대) vs 수출 중량(선)" src="https://github.com/user-attachments/assets/909bf3f2-d09e-4dae-b1ed-b9a77a0e03ad" />
-<img width="1392" height="590" alt="상위 15개 품목의 월별 평균 소매가격" src="https://github.com/user-attachments/assets/9b182ef2-6708-4838-8dc6-36e0abe5b902" />
-<img width="1189" height="590" alt="6년간 월별 가격 변동이 큰 상위 15개 품목" src="https://github.com/user-attachments/assets/22eb936c-35df-437b-8c48-93e3ec3c82cb" />
+우진: 공공 API 활용하면서 대규모 품목에 대해 자동화된 데이터 수집 구조를 설계하는 점에서 어려움을 느꼈고, 또한 농수산물 가격 추이와 수출 중량 간의 상관관계를 분석하면서, 어떤 차트를 선택하느냐에 따라 분석 결과의 전달력이 크게 달라진다는 점을 체감했습니다. 또한 데이터 분석은 기획에서 시작된다는 것을 다시 한 번 느꼈습니다. 
