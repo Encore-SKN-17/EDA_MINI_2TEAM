@@ -8,7 +8,7 @@
 
 | [최우진](https://github.com/CHUH00) | [조세희](https://github.com/SEHEE-8546) | [정의중](https://github.com/uii42) | [박민정](https://github.com/minjeon) | [맹지수](https://github.com/happyfrogg) |
 |-------|-------|-------|-------|-------|
-| <img src="cwj.png" width="120"/> | <img src="csh.png" width="120"/> | <img src="juj.png" width="120"/> | <img src="pmj.png" width="120"/> | <img src="mjs.png" width="120"/> |
+| <img src="images/cwj.png" width="120"/> | <img src="images/csh.png" width="120"/> | <img src="images/juj.png" width="120"/> | <img src="images/pmj.png" width="120"/> | <img src="images/mjs.png" width="120"/> |
 
 ---
 
@@ -52,16 +52,16 @@ https://www.kamis.or.kr/customer/reference/openapi_list.do
 
 ## 📊시각화 자료
 ### <월별 축종별 가격 변동>
-<img src="mjs1.png" width="1189" height="590"/>
+<img src="images/mjs1.png" width="1189" height="590"/>
 
 ### <축종별 가격 상관관계>
-<img src="mjs2.png" width="1189" height="590"/>
+<img src="images/mjs2.png" width="1189" height="590"/>
 
 ### <축종별 수입산 가격변동률과 비교>
-<img src="mjs4.png" width="1189" height="590"/>
+<img src="images/mjs4.png" width="1189" height="590"/>
 
 ### <축종별 수입산 가격과의 상관관계>
-<img src="mjs3.png" width="1189" height="590"/>
+<img src="images/js3.png" width="1189" height="590"/>
 
 ### <월별 가격 변동이 큰 농산물 막대 그래프>
 <img width="1189" height="590" alt="6년간 월별 가격 변동이 큰 상위 15개 품목" src="https://github.com/user-attachments/assets/22eb936c-35df-437b-8c48-93e3ec3c82cb" />
