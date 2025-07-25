@@ -40,8 +40,7 @@ https://data.mafra.go.kr/opendata/data/indexOpenDataDetail.do?data_id=2017091300
 https://www.kamis.or.kr/customer/reference/openapi_list.do
 3. [농산물유통정보](https://www.kamis.or.kr/)
 4. [축산유통정보](https://www.ekapepia.com/)
-5. [축산유통통계누리](https://www.mtrace.go.kr/)
-6. [기상청 기상자료 개방포털][(https://data.kma.go.kr/cmmn/main.do)]
+5. [기상청 기상자료 개방포털][(https://data.kma.go.kr/cmmn/main.do)]
 
 ### ✅ 데이터 전처리 
 1. 로드된 데이터
