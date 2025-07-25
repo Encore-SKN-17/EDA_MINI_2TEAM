@@ -34,13 +34,11 @@
 
 ## 데이터 선택 및 전처리
 ### ✅ 데이터 출처
-1. 2019-2025년도 가축 질병 발생현황 데이터
-https://data.mafra.go.kr/opendata/data/indexOpenDataDetail.do?data_id=20170913000000000801
-2. 농산물 연도별/월별/일자별 소비자 가격 - API Key 발급
-https://www.kamis.or.kr/customer/reference/openapi_list.do
+1. [가축 질병 발생현황 데이터](https://data.mafra.go.kr/opendata/data/indexOpenDataDetail.do?data_id=20170913000000000801)
+2. [농산물 연도별/월별/일자별 소비자 가격](https://www.kamis.or.kr/customer/reference/openapi_list.do) - API Key 발급
 3. [농산물유통정보](https://www.kamis.or.kr/)
 4. [축산유통정보](https://www.ekapepia.com/)
-5. [기상청 기상자료 개방포털][(https://data.kma.go.kr/cmmn/main.do)]
+5. [기상청 기상자료 개방포털](https://data.kma.go.kr/cmmn/main.do)
 
 ### ✅ 데이터 전처리 
 1. 로드된 데이터
